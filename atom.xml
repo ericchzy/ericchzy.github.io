@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zyChing&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zyching.github.io/"/>
+  <updated>2018-01-12T06:05:48.865Z</updated>
+  <id>http://zyching.github.io/</id>
+  
+  <author>
+    <name>TszYiu(子耀) Ching(程)</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的开始</title>
+    <link href="http://zyching.github.io/2018/01/11/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://zyching.github.io/2018/01/11/新的开始/</id>
+    <published>2018-01-11T13:36:16.000Z</published>
+    <updated>2018-01-12T06:05:48.865Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a><img src="https://steemitimages.com/DQmRQodgHDuhmD9BUNmyg9gZMt9yUqd5vRg7yLPQJTb6nDT/image.jpg" alt=""></h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;https://steemitimages.com/DQmRQodgHDuhmD9BUNmyg9gZMt9yUqd5vRg7yLPQJTb6nDT/im
+      
+    
+    </summary>
+    
+    
+      <category term="Helloworld" scheme="http://zyching.github.io/tags/Helloworld/"/>
+    
+      <category term="Hexo" scheme="http://zyching.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
