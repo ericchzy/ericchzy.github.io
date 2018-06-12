@@ -148,7 +148,11 @@
 <li><a href="https://developers.google.com/machine-learning/rules-of-ml" target="_blank" rel="noopener">Rule of ML</a>: Best practices for machine learning engineering</li>
 <li><a href="https://js.tensorflow.org/" target="_blank" rel="noopener">TensorFlow.js</a>: WebGL-accelerated, browser-based JavaScript library for training and deploying ML models</li>
 </ul>
-<p><strong>Changelog:</strong><br>2018年04月16日 生成初稿<br>2018年6月11日 新增章节并修复问题</p>
+<p><strong>Changelog:</strong></p>
+<ul>
+<li>2018年04月16日 生成初稿</li>
+<li>2018年6月11日 新增章节并修复问题</li>
+</ul>
 ]]></content>
       
         
