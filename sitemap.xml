@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chzy.xyz/about/index.html</loc>
+    <loc>http://chzy.xyz/2019/05/30/Android-OkHttp-Framework/</loc>
     
-    <lastmod>2019-05-29T16:32:25.184Z</lastmod>
+    <lastmod>2019-05-30T06:41:32.545Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://chzy.xyz/2018/06/17/The-Crowd-A-Study-of-the-Popular-Mind/</loc>
     
-    <lastmod>2018-06-17T13:23:38.318Z</lastmod>
+    <lastmod>2019-05-30T05:17:08.769Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chzy.xyz/about/index.html</loc>
+    
+    <lastmod>2019-05-29T16:32:25.184Z</lastmod>
     
   </url>
   
